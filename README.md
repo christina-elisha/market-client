@@ -1,4 +1,4 @@
-# market
+# market on client side
 app that trade goods 
 # flutter  # front-end
 ![project](https://github.com/christina-elisha/market/blob/main/asset/s1.png)
